@@ -18,7 +18,7 @@ This implementation allows you to connect to APIs provided by The Weather Compan
 [TWCo Forecast Hourly](http://goo.gl/IJhhvZ)
 
 ---
-#cRequirements
+# Requirements
 
 - IBM SPSS Modeler v18
 - R Essentials for SPSS Modeler plugin 
